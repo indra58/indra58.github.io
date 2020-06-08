@@ -1,0 +1,14 @@
+{
+  "success": "true",
+  "versionId": 1,
+  "fixedMenus": [
+    {
+      "position": 2,
+      "menuCode": "FDT"
+    },
+    {
+      "position": 2,
+      "menuCode": "ESEWA"
+    }
+  ]
+}
