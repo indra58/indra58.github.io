@@ -10,5 +10,23 @@
       "position": 4,
       "menuCode": "SCAN2PAY"
     }
+  ],
+  "paymentMerchants": [
+    {
+      "code": "ATAT",
+      "position": 3,
+      "hasChildren" : true
+    },
+    {
+      "code": "SCAN2PAY",
+      "position": 4,
+      "hasChildren": false
+    }
+  ],
+  "specialMerchants": [
+      "ATAT",
+      "FT",
+      "FTM",
+      "SCAN2PAY"
   ]
 }
