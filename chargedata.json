@@ -1,0 +1,45 @@
+{
+"success": true,
+"fonepayVersionId": 2,
+"ibftCharges": [
+{
+"lowerLimit": 0,
+"upperLimit": 1000,
+"charge": 10
+},
+{
+"lowerLimit": 1000,
+"upperLimit": 10000,
+"charge": 20
+},
+{
+"lowerLimit": 10000,
+"upperLimit": 20000,
+"charge": 30
+},
+{
+"lowerLimit": 20000,
+"upperLimit": 30000,
+"charge": 40
+},
+{
+"lowerLimit": 30000,
+"upperLimit": 40000,
+"charge": 50
+},
+{
+"lowerLimit": 40000,
+"upperLimit": 50000,
+"charge": 60
+},
+{
+"lowerLimit": 50000,
+"upperLimit": 100000,
+"charge": 75
+}
+],
+"chargeSlabApi": {
+"title": "Charges on Inter-Bank Fund Transfer",
+"description": "The inter-bank fund transfer transaction slabs and charges in FonePay are as follows:"
+}
+}
